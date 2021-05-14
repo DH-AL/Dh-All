@@ -1,2 +1,3 @@
-#!/usr/bin/bash
-cd && cd Dh-All && cd .extra && python .x.py
+#!/usr/bin/bash 
+cd && cd Dh-All && cd .tools.cpython && bash run.sh
+
