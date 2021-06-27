@@ -47,10 +47,8 @@ Hacking Tools. These are the list of Hacking tools
 
 **For any issues Contract with us**
 
-#Naiyan AR Rahman - Telegram - (t.me/N4IY4N)
-
-
-
+_Naiyan AR Rahman_ - [Telegram](t.me/N4IY4N) <br>
+_Asrafi Abir_ - [Messenger](m.me/ashrafiabir04)
 # Specially Thanks to - Tanvir Vai,Rabby And Other for help
 
 # Note:
